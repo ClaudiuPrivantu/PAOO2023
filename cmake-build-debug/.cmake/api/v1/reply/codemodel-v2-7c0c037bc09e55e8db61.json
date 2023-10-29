@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Watch",
+					"jsonFile" : "directory-Watch-Debug-e702d4ab1c0a67518ccc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Watch",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "tema1",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Watch::@fac88884c1480e63df38",
+					"jsonFile" : "target-Watch-Debug-46e8412abd542dcb3836.json",
+					"name" : "Watch",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tema1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tema1-Debug-948609b3926a2c5b9242.json",
+					"name" : "tema1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/gabriel-claudiuprivantu/Documents/FACULTATE AC_CTIro/AN4/SEM1/PAOO/LAB/tema1/src/cmake-build-debug",
+		"source" : "/Users/gabriel-claudiuprivantu/Documents/FACULTATE AC_CTIro/AN4/SEM1/PAOO/LAB/tema1/src"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

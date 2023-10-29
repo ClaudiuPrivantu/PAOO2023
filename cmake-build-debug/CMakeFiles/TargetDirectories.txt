@@ -1,0 +1,6 @@
+/Users/gabriel-claudiuprivantu/Documents/FACULTATE AC_CTIro/AN4/SEM1/PAOO/LAB/tema1/src/cmake-build-debug/CMakeFiles/tema1.dir
+/Users/gabriel-claudiuprivantu/Documents/FACULTATE AC_CTIro/AN4/SEM1/PAOO/LAB/tema1/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gabriel-claudiuprivantu/Documents/FACULTATE AC_CTIro/AN4/SEM1/PAOO/LAB/tema1/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gabriel-claudiuprivantu/Documents/FACULTATE AC_CTIro/AN4/SEM1/PAOO/LAB/tema1/src/cmake-build-debug/Watch/CMakeFiles/Watch.dir
+/Users/gabriel-claudiuprivantu/Documents/FACULTATE AC_CTIro/AN4/SEM1/PAOO/LAB/tema1/src/cmake-build-debug/Watch/CMakeFiles/edit_cache.dir
+/Users/gabriel-claudiuprivantu/Documents/FACULTATE AC_CTIro/AN4/SEM1/PAOO/LAB/tema1/src/cmake-build-debug/Watch/CMakeFiles/rebuild_cache.dir

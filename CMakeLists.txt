@@ -1,9 +1,15 @@
-cmake_minimum_required(VERSION 3.10)
-project(Tutorial VERSION 1.0)
-configure_file(TutorialConfig.h.in TutorialConfig.h)
-set(CMAKE_CXX_STANDARD 11)
-set(CMAKE_CXX_STANDARD_REQUIRED True)
-add_executable(Tutorial tutorial.cxx)
-target_include_directories(Tutorial PUBLIC
-                           "${PROJECT_BINARY_DIR}"
-                           )
+cmake_minimum_required(VERSION 3.22)
+project(tema1)
+
+set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD_REQUIRED true)
+
+add_subdirectory(Watch)
+
+add_executable(tema1 main.cpp)
+
+target_link_libraries(tema1 PUBLIC Watch)
+
+target_include_directories(tema1 PUBLIC
+        "${PROJECT_BINARY_DIR}"
+        "${PROJECT_SOURCE_DIR}/Watch")
